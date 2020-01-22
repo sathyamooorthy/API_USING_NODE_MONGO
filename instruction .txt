@@ -1,0 +1,12 @@
+Include all dependencies : npm install express.... etc
+Open on VS code 
+Open mongo Compass
+Run  mongo.exe by opening current directory of mongo
+Open post man
+RUN VS code as npm start 
+Once connected goto postman type port/note and check every thing (get,post,put,delete)
+
+In postman for create goto for post method  -> port as localhost:4000/notes
+after that in  --> body --> raw  type as {"title": "hello world", "content":"This is my first application"}   and send 
+
+after that check as get method
